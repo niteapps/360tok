@@ -10,3 +10,5 @@
 ![home image](https://github.com/niteapps/360tok/blob/main/1.png)
 
 ## 二, Control the device ##
+
+![home image](https://github.com/niteapps/360tok/blob/main/5.jpg)
